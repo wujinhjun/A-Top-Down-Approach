@@ -10,3 +10,11 @@ This is a repository to store some code or materials for recording my learning p
 [计算机网络](https://www.icourse163.org/course/USTC-1463123169?tid=1468127461): from the USTC.
 
 [CS144](https://cs144.github.io/): from the Stanford.
+
+## Exercise:
+
+### [labs in Top Down](./labs):
+1. lab1--webserver:  
+   This is the first exercise in the book.  
+   This is [my homework](./labs/lab1_webServer)
+   This is [document](Programming_Assignments/WebServer.pdf)
