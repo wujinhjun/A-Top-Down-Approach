@@ -5,7 +5,8 @@ endmsg = "\r\n.\r\n"
 # Choose a mail server (e.g. Google mail server) and call it mailserver
 # Fill in start
 mailserver = ("smtp-mail.outlook.com", 587)
-#Fill in end
+# Fill in end
+
 # Create socket called clientSocket and establish a TCP connection with mailserver
 # Fill in start
 clientSocket = socket(AF_INET, SOCK_STREAM)
